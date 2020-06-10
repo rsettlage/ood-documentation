@@ -16,9 +16,7 @@ Jupyter.
    * - Jupyter
      - https://github.com/OSC/bc_example_jupyter
 
-While we don't yet provide this for other interactive apps, here is a list of
-interactive apps that are currently deployed at OSC and the corresponding OSC
-templates. 
+While we don't yet provide this for other interactive apps, below are example interactive app templates that are currently deployed at OSC and other contributing institutions. 
 
 .. list-table:: OSC Interactive App Templates
    :header-rows: 1
